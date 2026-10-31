@@ -1,4 +1,13 @@
 name: hash_redaction
+display_name: 井号隐藏消息过滤
 desc: 在进入后续插件和 LLM 前移除两个井号包围的隐藏文本，并支持整条隐藏消息静默。
 author: 千鸟
+repo: https://github.com/zz-cloudok/astrbot_plugin_hash_redaction
 version: 1.0.0
+astrbot_version: ">=4.0.0"
+social_link: https://github.com/zz-cloudok
+tags:
+  - 群聊
+  - 隐藏消息
+  - 内容过滤
+  - privacy
