@@ -1,0 +1,4 @@
+name: hash_redaction
+desc: 在进入后续插件和 LLM 前移除两个井号包围的隐藏文本，并支持整条隐藏消息静默。
+author: 千鸟
+version: 1.0.0

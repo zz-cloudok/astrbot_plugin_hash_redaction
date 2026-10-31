@@ -1,0 +1,8 @@
+{
+  "enabled": {
+    "type": "bool",
+    "description": "启用井号隐藏文本过滤",
+    "hint": "启用后，成对 # 包围的内容不会进入后续插件和 LLM。",
+    "default": true
+  }
+}
