@@ -1,6 +1,6 @@
 name: hash_redaction
 display_name: 井号隐藏消息过滤
-desc: Bot 会忽视 #井号内部的消息#，井号内的内容不会进入后续插件或 LLM。
+desc: "Bot 会忽视 #井号内部的消息#，井号内的内容不会进入后续插件或 LLM。"
 author: 千鸟
 repo: https://github.com/zz-cloudok/astrbot_plugin_hash_redaction
 version: 1.0.1
